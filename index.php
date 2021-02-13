@@ -4,6 +4,18 @@
 	<title>ZipiPiz</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+	
+<meta name="author" content="satheesh">
+	
+<meta name="description" content="This is a Image search engine. You can search Image files in the world.">
+<meta name="keywords" content="Image,Image search,download,search engine,search,Image finder,Image Searching,Recherche Image">
+
+<meta property="og:title" content="Image Search"> 
+<meta property="og:description" content="This is a Image search engine. You can search Image files in the world.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="//zipipiz.herokuapp.com//">
+<meta property="og:image" content="//zipipiz.herokuapp.com/assert/favi.png">
+	
 <link rel="shortcut icon" href="assert/favi.png">
 <link rel="stylesheet" href="assert/css/bootstrap.min.css">
 <script src="assert/js/jquery.min.js"></script>
